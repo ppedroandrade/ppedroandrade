@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Andrade;I'm+22+years+old;I'm+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Andrade;I'm+22+years+old;I'm+Front+End+Developer;Be+Welcome!+:%29" style="margin-bottom: 60px;" />
 
 
 
-<div align="center">
-  <a href="https://github.com/ppedroandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppedroandrade&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedroandrade&layout=compact&langs_count=7&theme=blueberry"/> 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppedroandrade&show_icons=true&theme=transparent&include_all_commits=true&)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedroandrade&hide_progress=true&theme=transparent" />
+
 
  
  ### Main skills:
